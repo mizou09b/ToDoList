@@ -1,0 +1,13 @@
+
+div {
+    text-align: center;
+}
+
+li:hover {
+    text-transform: capitalize;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
